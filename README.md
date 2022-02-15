@@ -1,8 +1,8 @@
-# Dockworker for Solr Instances
-## Develop, Test and Deploy into Kubernetes Docker-Based Solr Applications
+# Dockworker for Elasticsearch Instances
+## Develop, Test and Deploy into Kubernetes Docker-Based Elasticsearch Applications
 Dockworker is a framework of (mostly) Robo commands that makes local development of docker-based web applications a breeze. It also tests and deploys these applications into kubernetes. Stand-alone, this package offers very little benefit, but to see how we use dockworker: check out [an example of how we use dockworker to deploy lib.unb.ca](https://github.com/unb-libraries/lib.unb.ca).
 
-This package extends the base [dockworker](https://github.com/unb-libraries/dockworker) framework to provide additional functionality for Solr applications.
+This package extends the base [dockworker](https://github.com/unb-libraries/dockworker) framework to provide additional functionality for Elasticsearch applications.
 
 ## Getting Started
 ### Requirements

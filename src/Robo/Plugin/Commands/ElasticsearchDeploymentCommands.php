@@ -10,7 +10,7 @@ use Dockworker\Robo\Plugin\Commands\DockworkerLocalCommands;
 class ElasticsearchDeploymentCommands extends DockworkerLocalCommands {
 
   /**
-   * Provides log checker with ignored log exception items for local Solr.
+   * Provides log checker with ignored log exception items for local Elasticsearch.
    *
    * @hook on-event dockworker-deployment-log-error-exceptions
    */
